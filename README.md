@@ -20,10 +20,15 @@ To extract meaningful features using BoW, TF-IDF, or Word2Vec.
 To demonstrate how preprocessing affects model accuracy.
 
 ## 🧰 Technologies Used:
-** Category	                      Tools / Libraries **
+
+# Category	                      Tools / Libraries **
 
 Programming Language	     -       Python 3.x
+
 Text Processing	           -      NLTK, spaCy, re
+
 Data Handling	             -     pandas, NumPy
+
 Feature Extraction	       -      scikit-learn
+
 Environment	               -       Google Colab
