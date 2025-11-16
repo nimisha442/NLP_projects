@@ -7,7 +7,7 @@ By applying steps like tokenization, stopword removal, lemmatization, and featur
 
 Raw text data often contains noise — punctuation, stop words, typos, and inconsistencies. This project builds a modular preprocessing system to transform unstructured text into clean, machine-readable input for NLP models.
 
-## 🎯 Objectives
+## 🎯 Objectives 
 
 To clean and standardize raw text data.
 
@@ -19,4 +19,11 @@ To extract meaningful features using BoW, TF-IDF, or Word2Vec.
 
 To demonstrate how preprocessing affects model accuracy.
 
+## 🧰 Technologies Used:
+** Category	                      Tools / Libraries **
 
+Programming Language	     -       Python 3.x
+Text Processing	           -      NLTK, spaCy, re
+Data Handling	             -     pandas, NumPy
+Feature Extraction	       -      scikit-learn
+Environment	               -       Google Colab
