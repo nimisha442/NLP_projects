@@ -21,9 +21,7 @@ To demonstrate how preprocessing affects model accuracy.
 
 ## 🧰 Technologies Used:
 
-# Category	                      Tools / Libraries **
-
-Programming Language	     -       Python 3.x
+Programming Language	     -       Python 
 
 Text Processing	           -      NLTK, spaCy, re
 
