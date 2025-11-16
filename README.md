@@ -9,15 +9,15 @@ Raw text data often contains noise — punctuation, stop words, typos, and incon
 
 ## 🎯 Objectives 
 
-To clean and standardize raw text data.
+* To clean and standardize raw text data.
 
-To remove unwanted noise like punctuation, numbers, and stop words.
+* To remove unwanted noise like punctuation, numbers, and stop words.
 
-To normalize words using stemming and lemmatization.
+* To normalize words using stemming and lemmatization.
 
-To extract meaningful features using BoW, TF-IDF, or Word2Vec.
+* To extract meaningful features using BoW, TF-IDF, or Word2Vec.
 
-To demonstrate how preprocessing affects model accuracy.
+* To demonstrate how preprocessing affects model accuracy.
 
 ## 🧰 Technologies Used:
 
